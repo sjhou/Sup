@@ -23,6 +23,13 @@ header h1 {
 
 main {
   padding: 5em 1em 1em 1em;
+  font-family: helvetica, arial, sans-serif;
+}
+
+main img {
+  margin: 50px 0 50px 0;
+  width: 500px;
+  height: 727.6295133438px;
 }
 
 header a {
@@ -33,6 +40,7 @@ header a {
 header li {
   display: inline-block;
   margin-right: 1em;
+  font-family: helvetica, arial, sans-serif;
 }
 
 header li a:hover {
